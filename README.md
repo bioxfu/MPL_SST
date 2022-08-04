@@ -1,0 +1,1 @@
+This repository contains the R code of spatial transcriptome analysis in paper **Excitatory SST neurons in the medial paralemniscal nucleus control repetitive self-grooming and encode reward** (accepted).
